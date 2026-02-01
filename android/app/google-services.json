@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1031220464363",
+    "project_id": "sdadapp",
+    "storage_bucket": "sdadapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031220464363:android:fcfb29f21cdf1ce9824cae",
+        "android_client_info": {
+          "package_name": "com.example.sdad_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDomKwk3b1Jkfk_gLwI-ME3lqf9p3PgO0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
